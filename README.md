@@ -1,5 +1,5 @@
+# Abandoned use [Use Gradle Plugin instead](https://github.com/emundo/octane-gradle-plugin)
 # ALM Octane REST API Java SDK
-
 #### Maven
 ```xml
 <dependency>
